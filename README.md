@@ -1,2 +1,3 @@
-# crud_django
-Django REST with CRUD table
+# Crypto-Django-App
+
+
